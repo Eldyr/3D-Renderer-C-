@@ -1,0 +1,13 @@
+﻿  AmbientLight.cpp
+  Bitmap.cpp
+  Camera.cpp
+  Framework.cpp
+  Matrix.cpp
+  MD2Loader.cpp
+  Model.cpp
+  Polygon3D.cpp
+  Rasteriser.cpp
+  Vector3D.cpp
+  Vertex.cpp
+  Generating Code...
+  Rasteriser.vcxproj -> F:\sxoli\Ntoumas_Stelios Graphics I Assignment\Source\x64\Debug\Rasteriser.exe
